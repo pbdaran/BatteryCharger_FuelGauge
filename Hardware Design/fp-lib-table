@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BCFG_FP")(type "KiCad")(uri "${KIPRJMOD}/BCFG_FP.pretty")(options "")(descr ""))
+)

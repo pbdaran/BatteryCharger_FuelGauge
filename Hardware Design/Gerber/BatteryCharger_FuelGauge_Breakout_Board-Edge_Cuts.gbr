@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.3*%
+%TF.CreationDate,2025-08-03T17:59:23+05:30*%
+%TF.ProjectId,BatteryCharger_FuelGauge_Breakout_Board,42617474-6572-4794-9368-61726765725f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.3) date 2025-08-03 17:59:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X123700000Y-79550000D02*
+X157200000Y-79550000D01*
+X157200000Y-135000000D01*
+X123700000Y-135000000D01*
+X123700000Y-79550000D01*
+M02*
